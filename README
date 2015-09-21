@@ -1,0 +1,6 @@
+Java code for the paper ”Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees”, KDD’13 by Charalampos Tsourakakis et al. 
+
+The code takes two files as input. The first file datasetsTopK.txt contains in each line a  graph dataset. The file methodsTopK.txt contains the set of methods the user wishes to run on each of the datasets.  Each input graph should follow the same format as as-735.txt and karate.txt: the first line contains number of vertices n and edges m, and then m lines follow, each one containing an edge u,v. 
+
+
+The code is available for personal, academic, or educational use, but not for commercial use.
